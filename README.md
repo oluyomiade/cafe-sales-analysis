@@ -5,7 +5,6 @@ This project analyses café transaction data to identify sales patterns, custome
 
 The project demonstrates practical data analysis skills using Python, SQL, and Microsoft Excel.
 
-![Café Sales Dashboard](cafe_sales_dashboard.jpg)
 
 ## Project Objectives
 - Clean and prepare raw café transaction data for analysis.
@@ -13,6 +12,17 @@ The project demonstrates practical data analysis skills using Python, SQL, and M
 - Examine sales by payment method and transaction location.
 - Identify monthly and daily sales trends.
 - Build an interactive Excel dashboard to communicate key findings.
+
+
+## Dashboard
+The Excel dashboard presents key performance indicators and visualisations covering:
+- Recorded sales by item.
+- Recorded sales by payment method.
+- Recorded sales by location.
+- Monthly recorded sales trends.
+- Recorded sales by day of the week.
+
+![Café Sales Dashboard](Cafe_Sales_Main.jpg)
 
 ## Tools and Technologies
 - **Python:** Data cleaning and preparation.
@@ -62,6 +72,18 @@ Excel PivotTables and charts were used to summarise the results and build a dash
 - **Time-based analysis:** Monthly trends and differences across days of the week were explored.
 
 *Note: Recorded sales are not profit. The dataset does not provide sufficient cost information to calculate profit.*
+
+## Recommendations
+
+Based on the analysis, the following business recommendations are proposed:
+
+1. **Prioritise High-Performing Products:** Salad recorded the highest sales among the products analysed. The café should monitor its demand and ensure adequate stock availability to meet customer purchases.
+
+2. **Maintain Effective Payment Options:** Credit Card recorded the highest revenue among the payment methods. The café should continue supporting multiple payment options while monitoring their usage and performance.
+
+3. **Use Sales Trends for Planning:** Monthly and daily sales patterns can help the café plan inventory, staffing, and operational activities around periods of higher and lower sales.
+
+4. **Improve Transaction Data Completeness:** Forty transactions had missing sales totals. The café should improve transaction recording procedures to reduce missing values and support more reliable sales reporting.
 
 ## Dashboard
 The Excel dashboard presents key performance indicators and visualisations covering:
