@@ -22,7 +22,7 @@ The Excel dashboard presents key performance indicators and visualisations cover
 - Monthly recorded sales trends.
 - Recorded sales by day of the week.
 
-![Café Sales Dashboard](Cafe_Sales_Main.jpg)
+![Café Sales Dashboard](Cafe_Analysis_Main.jpg)
 
 ## Tools and Technologies
 - **Python:** Data cleaning and preparation.
@@ -84,14 +84,6 @@ Based on the analysis, the following business recommendations are proposed:
 3. **Use Sales Trends for Planning:** Monthly and daily sales patterns can help the café plan inventory, staffing, and operational activities around periods of higher and lower sales.
 
 4. **Improve Transaction Data Completeness:** Forty transactions had missing sales totals. The café should improve transaction recording procedures to reduce missing values and support more reliable sales reporting.
-
-## Dashboard
-The Excel dashboard presents key performance indicators and visualisations covering:
-- Recorded sales by item.
-- Recorded sales by payment method.
-- Recorded sales by location.
-- Monthly recorded sales trends.
-- Recorded sales by day of the week.
 
 ## Project Files
 The project includes the original dataset, cleaned dataset, Python cleaning script, SQL analysis queries, and Excel workbook containing the dashboard and PivotTables.
